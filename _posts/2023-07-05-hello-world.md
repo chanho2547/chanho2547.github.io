@@ -8,5 +8,8 @@ categories: jekyll update
 this is test for me
 ## and this is the TITLE TEST
 
-below, pic test
-![Alt text](<스크린샷 2023-07-05 오후 9.28.33.png>)
+below, pic test, new one
+
+
+
+ ![스크린샷 2023-07-05 오후 9.58.55](/Users/jungchanho/Documents/git_blog/chanho2547.github.io/_posts/2023-07-05-hello-world.assets/스크린샷 2023-07-05 오후 9.58.55.png)![스크린샷 2023-07-05 오후 9.58.12](/Users/jungchanho/Documents/git_blog/chanho2547.github.io/_posts/2023-07-05-hello-world.assets/스크린샷 2023-07-05 오후 9.58.12.png)
