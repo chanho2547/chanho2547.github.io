@@ -19,3 +19,18 @@ below, pic test, new one
 왜 안돼?
 
 ㅁㄴㅇㄹㅁㄴㅇㄹㅁㄴㅇㄹㅁㄴㄹㅇ
+
+![namedChanged](/Users/jungchanho/Documents/git_blog/chanho2547.github.io/_posts/2023-07-05-hello-world.assets/스크린샷 2023-07-05 오후 10.04.24.png)
+
+
+
+그 다음 시도(50퍼 줄이기)
+
+<img src="/Users/jungchanho/Documents/git_blog/chanho2547.github.io/_posts/2023-07-05-hello-world.assets/스크린샷 2023-07-05 오후 10.04.52.png" alt="changed name" style="zoom:50%;" />
+
+
+
+
+
+![ㅁㄴㅇㄹㅇㅇ](/Users/jungchanho/Documents/git_blog/chanho2547.github.io/_posts/2023-07-05-hello-world.assets/스크린샷 2023-07-05 오후 10.05.24.png)
+
